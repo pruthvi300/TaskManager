@@ -1,6 +1,7 @@
+https://pruthvis-task-manager.netlify.app![Screenshot from 2024-12-11 01-38-13](https://github.com/user-attachments/assets/4be3dac1-01f2-4705-974b-965ef28f5aac)
+
 # Quasar App (task-manager)![Screenshot from 2024-12-11 01-33-10](https://github.com/user-attachments/assets/4f916236-206c-4a37-b075-8f4b5d22f196)
 
-file:///home/earths/Pictures/Screenshots/Screenshot%20from%202024-12-11%2001-38-13.png
 
 A Quasar Project
 
